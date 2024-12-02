@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159386615359",
+    "project_id": "flavorbook-67f1d",
+    "storage_bucket": "flavorbook-67f1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159386615359:android:5c0648107f075a4450828a",
+        "android_client_info": {
+          "package_name": "com.example.flavorbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGi1a9kQmj2Zt4tLXiLigQ-pGjY3wuiHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
